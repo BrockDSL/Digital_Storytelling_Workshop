@@ -2,4 +2,4 @@
 
 
 # Intro to Digital Storyteling
- Workshop file for Intro to Digital Storytelling
+ Files for Intro to Digital Storytelling workshop
