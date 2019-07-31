@@ -1,5 +1,5 @@
 ![DSL Logo](dsl_logo.png)
 
 
-# Intro to Data Visualization
- Workshop file for Intro to Data Visualization
+# Intro to Digital Storyteling
+ Workshop file for Intro to Digital Storytelling
